@@ -1,5 +1,13 @@
 ## DataMUX ##
 
+This was Deep Learning Major exam submission, in which we were required to reproduce the results of a latest reserach paper from 2022, published in top conferences.
+<br>
+Then, using the concepts learnt from it, we were asked to apply them on some new applications for which I chose 
+<br>
+i) Multi-label Text classification
+<br>
+ii) Combining Image and tabular data for improving predictions
+
 ### Table of Contents
 
    * [Setup and Dependencies](#setup-and-dependencies)
